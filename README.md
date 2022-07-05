@@ -7,3 +7,6 @@ Las notas se guardan en el local storage
 
 Al agregar una nota, se puede eliminar dando click en el icono de bote de basura
 ![imagen](https://user-images.githubusercontent.com/23528473/177428490-531390ba-fa44-4286-9de4-185bad220e3a.png)
+
+Cuando el contador de carateres restantes es igual a 20 o menos, el emoji indicador cambia
+![imagen](https://user-images.githubusercontent.com/23528473/177428636-9e0d6c20-df9b-46f2-aa94-749435f3eadf.png)
